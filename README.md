@@ -8,7 +8,7 @@
 
 ## 项目截图
 
-![](https://github.com/Yin-Hongwei/vue-search-demo/tree/master/static/theme.jpg)
+![](https://github.com/Yin-Hongwei/vue-search-demo/blob/master/static/theme.jpg)
 
 
 
