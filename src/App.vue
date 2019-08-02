@@ -21,7 +21,10 @@ html {
 
 body {
   height: 100%;
-  background-size: 100% 100%;
+  background-image: url("static/img/001.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 
 #app {
