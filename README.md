@@ -1,4 +1,5 @@
 <h1 align="center">vue-search-demo</h1>
+
 ## Screenshot
 
 ![](https://github.com/Yin-Hongwei/vue-search-demo/blob/master/static/theme.jpg)
