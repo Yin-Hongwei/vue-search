@@ -1,29 +1,40 @@
-# vue-search-demo
-
-## 功能
-
-搜索界面
-
-
-
-## 项目截图
+<h1 align="center">vue-search-demo</h1>
+## Screenshot
 
 ![](https://github.com/Yin-Hongwei/vue-search-demo/blob/master/static/theme.jpg)
 
 
 
-## 技术栈
+## Function
 
-- vue
-
-- vue-resource
+搜索界面
 
 
 
-## 使用
+## Technologies
 
-``` bash
-1. git clone https://github.com/Yin-Hongwei/vue-search-demo/tree/master/static.git 下载本项目到本地
-2. npm install 安装依赖
-3. npm run dev 启动项目
+>  vue
+
+>  vue-resource
+
+
+
+## Install
+
+下载本项目到本地
+
+``` 
+git clone https://github.com/Yin-Hongwei/vue-search-demo.git
+```
+
+安装依赖
+
+```
+npm install
+```
+
+启动项目
+
+```
+npm run dev
 ```
