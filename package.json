@@ -1,5 +1,5 @@
 {
-  "name": "search",
+  "name": "vue-search-demo",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "Yin-Hongwei <3374461366@qq.com>",
@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-resource": "^1.5.0"
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -71,7 +72,7 @@
     "vue-style-loader": "^3.0.1",
     "vue-template-compiler": "^2.5.2",
     "webpack": "^3.6.0",
-    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-server": "^2.9.1",
     "webpack-merge": "^4.1.0"
   },

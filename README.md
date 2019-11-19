@@ -1,41 +1,30 @@
-<h1 align="center">vue-search-demo</h1>
+# vue-search-demo
 
-## Screenshot
-
-![](https://github.com/Yin-Hongwei/vue-search-demo/blob/master/static/theme.jpg)
-
-
-
-## Function
-
-搜索界面
-
-
-
-## Technologies
-
->  vue
-
->  vue-resource
-
-
+> A Vue.js project
 
 ## Build Setup
 
-下载本项目到本地
-
-``` 
-git clone https://github.com/Yin-Hongwei/vue-search-demo.git
-```
-
-安装依赖
-
-```
+``` bash
+# install dependencies
 npm install
-```
 
-启动项目
-
-```
+# serve with hot reload at localhost:8080
 npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
 ```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
