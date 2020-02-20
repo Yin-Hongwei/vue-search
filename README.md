@@ -1,30 +1,45 @@
-# vue-search-demo
+<h1 align="center">Vue-search-demo</h1>
 
-> A Vue.js project
+<br/>
 
-## Build Setup
+<p align="center">
+  <a href=""><img alt="license" src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat"></a>
+</p>
+
+## 项目说明
+
+A Vue.js project
+
+
+
+## 项目截图
+
+![](https://tva1.sinaimg.cn/large/0082zybply1gc37l2y9fnj31gm0u0aft.jpg)
+
+
+
+## 功能
+
+- 搜索
+
+
+
+## 技术栈
+
+vue + vue-resource + vue-route
+
+
+
+## 安装
 
 ``` bash
-# install dependencies
+# 下载项目
+git clone https://github.com/Yin-Hongwei/vue-search-demo.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动项目
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
