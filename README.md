@@ -26,7 +26,7 @@ A Vue.js project
 
 ## 技术栈
 
-vue + vue-resource + vue-route
+vue + vue-resource + vue-router
 
 
 
